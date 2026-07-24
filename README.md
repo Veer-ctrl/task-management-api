@@ -10,6 +10,20 @@ This project was developed as part of a Backend Developer Assignment. It demonst
 
 ---
 
+---
+
+## Live Demo
+
+**Base URL**
+
+https://task-management-api-pqa2.onrender.com/
+
+**Swagger API Documentation**
+
+https://task-management-api-pqa2.onrender.com/api-docs
+
+---
+
 ## Features
 
 ### Authentication
